@@ -9,9 +9,7 @@ class User < ApplicationRecord
 
   has_many :questions
   has_many :answers
-  # has_many :topics
-
-
+  
   def following
     following_users
   end
