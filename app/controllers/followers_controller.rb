@@ -5,7 +5,7 @@ class FollowersController < ApplicationController
     user = User.find_by_id(params[:id])
     redirect_to root_path and return if user.nil? || current_user.id == user.id
     if current_user.following?(user)
-      flash[:error] = 'Already following.'
+      flash[:error] = 'Already following'
     else
       current_user.follow(user)
       flash[:notice] = "User is now following to #{user.email}"
@@ -17,7 +17,7 @@ class FollowersController < ApplicationController
     topic = Topic.find_by_id(params[:id])
     redirect_to root_path and return if topic.nil?
     if current_user.following?(topic)
-      flash[:error] = 'Already following.'
+      flash[:error] = 'Already following'
     else
       current_user.follow(topic)
       flash[:notice] = "User is now following to #{topic.name}"
