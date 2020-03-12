@@ -1,0 +1,25 @@
+p
+  strong User:
+  = @question.user_id
+p
+  strong Title:
+  = @question.title
+p
+  strong Description:
+  = @question.description
+
+p = link_to "Follow User #{@question.user.try(:email)}", follow_user_follower_path(@question.user_id), method: :post, class: 'follow_user'
+p
+  - @question.topics.each do |topic|
+    = link_to "Follow Topic #{topic.name}",  follow_topic_follower_path(topic.id), method: :post, class: 'follow_topic'
+h4 Answers
+- @question.answers.each do |answer|
+  .answer
+    = answer.answer
+  hr
+p = link_to 'Answer this question', new_answer_path(question_id: @question.id), class: 'question'
+
+
+=> link_to 'Edit', edit_question_path(@question)
+'|
+=< link_to 'Back', questions_path

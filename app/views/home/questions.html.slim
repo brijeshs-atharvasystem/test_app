@@ -1,0 +1,18 @@
+h1 All questions
+
+- @questions.each do |question|
+  p User: #{question.user.email}
+  p Title: #{question.title}
+  p Description: #{question.description}
+  p = link_to "Follow User #{question.user.try(:email)}", follow_user_follower_path(question.user_id), method: :post, class: 'follow_user'
+  p
+    - question.topics.each do |topic|
+      = link_to "Follow Topic #{topic.name}",  follow_topic_follower_path(topic.id), method: :post, class: 'follow_topic'
+  h4 Answers
+  - question.answers.each do |answer|
+    .answer
+      = answer.answer
+    hr
+  p = link_to 'Answer this question', new_answer_path(question_id: question.id), class: 'question'
+  p = link_to 'Show', question_path(question), class: 'question'
+  hr

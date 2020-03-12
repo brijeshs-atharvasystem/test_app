@@ -1,0 +1,14 @@
+h1 Listing topics
+
+table.table
+  thead
+    tr
+      th Name
+
+  tbody
+    - @topics.each do |topic|
+      tr
+        td = topic.name
+br
+
+/= link_to 'New Topic', new_topic_path
