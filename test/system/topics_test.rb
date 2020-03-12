@@ -15,7 +15,6 @@ class TopicsTest < ApplicationSystemTestCase
     click_on "New Topic"
 
     fill_in "Name", with: @topic.name
-    fill_in "User", with: @topic.user_id
     click_on "Create Topic"
 
     assert_text "Topic was successfully created"
@@ -27,7 +26,6 @@ class TopicsTest < ApplicationSystemTestCase
     click_on "Edit", match: :first
 
     fill_in "Name", with: @topic.name
-    fill_in "User", with: @topic.user_id
     click_on "Update Topic"
 
     assert_text "Topic was successfully updated"
