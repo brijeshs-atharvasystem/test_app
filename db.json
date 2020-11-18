@@ -2,56 +2,56 @@
 	"diff": [
     	{
         	"fileName": "sample_entry_diff_2020-11-02_r01_0000_part_00.gz",
-        	"signedUrl": "sample",
+        	"signedUrl": "https://dev-files.blender.org/file/download/bwdp5reejwpkuh5i2oak/PHID-FILE-nui3bpuan4wdvd7yzjrs/sample.tar.gz",
         	"fileSize": 551325,
         	"expirationDateTimeUtc": "2020-11-02T19:20:46.6870577Z",
         	"sha256Checksum": "sample"
     	},
     	{
         	"fileName": "sample_entry_diff_2020-11-02_r01_0001_part_00.gz",
-        	"signedUrl": "sample",
+        	"signedUrl": "https://dev-files.blender.org/file/download/bwdp5reejwpkuh5i2oak/PHID-FILE-nui3bpuan4wdvd7yzjrs/sample.tar.gz",
         	"fileSize": 389953,
         	"expirationDateTimeUtc": "2020-11-02T19:20:46.6870577Z",
         	"sha256Checksum": "sample"
     	},
     	{
         	"fileName": "sample_entry_diff_2020-11-02_r01_0002_part_00.gz",
-        	"signedUrl": "sample",
+        	"signedUrl": "https://dev-files.blender.org/file/download/bwdp5reejwpkuh5i2oak/PHID-FILE-nui3bpuan4wdvd7yzjrs/sample.tar.gz",
         	"fileSize": 3270960,
         	"expirationDateTimeUtc": "2020-11-02T19:20:46.6870577Z",
         	"sha256Checksum": "sample"
     	},
     	{
         	"fileName": "sample_entry_diff_2020-11-02_r01_0003_part_00.gz",
-        	"signedUrl": "sample",
+        	"signedUrl": "https://dev-files.blender.org/file/download/bwdp5reejwpkuh5i2oak/PHID-FILE-nui3bpuan4wdvd7yzjrs/sample.tar.gz",
         	"fileSize": 158745,
         	"expirationDateTimeUtc": "2020-11-02T19:20:46.6870577Z",
         	"sha256Checksum": "sample"
     	},
     	{
         	"fileName": "sample_facility_diff_2020-11-02_r01_000.gz",
-        	"signedUrl": "sample",
+        	"signedUrl": "https://dev-files.blender.org/file/download/bwdp5reejwpkuh5i2oak/PHID-FILE-nui3bpuan4wdvd7yzjrs/sample.tar.gz",
         	"fileSize": 1765,
         	"expirationDateTimeUtc": "2020-11-02T19:20:46.6870577Z",
         	"sha256Checksum": "sample"
     	},
     	{
         	"fileName": "sample_patient_diff_2020-11-02_r01_000.gz",
-        	"signedUrl": "sample",
+        	"signedUrl": "https://dev-files.blender.org/file/download/bwdp5reejwpkuh5i2oak/PHID-FILE-nui3bpuan4wdvd7yzjrs/sample.tar.gz",
         	"fileSize": 13404,
         	"expirationDateTimeUtc": "2020-11-02T19:20:46.6870577Z",
         	"sha256Checksum": "sample"
     	},
     	{
         	"fileName": "sample_practice_diff_2020-11-02_r01_000.gz",
-        	"signedUrl": "sample",
+        	"signedUrl": "https://dev-files.blender.org/file/download/bwdp5reejwpkuh5i2oak/PHID-FILE-nui3bpuan4wdvd7yzjrs/sample.tar.gz",
         	"fileSize": 1394,
         	"expirationDateTimeUtc": "2020-11-02T19:20:46.6870577Z",
         	"sha256Checksum": "sample"
     	},
     	{
         	"fileName": "sample_provider_diff_2020-11-02_r01_000.gz",
-        	"signedUrl": "sample",
+        	"signedUrl": "https://dev-files.blender.org/file/download/bwdp5reejwpkuh5i2oak/PHID-FILE-nui3bpuan4wdvd7yzjrs/sample.tar.gz",
         	"fileSize": 2561,
         	"expirationDateTimeUtc": "2020-11-02T19:20:46.6870577Z",
         	"sha256Checksum": "sample"
@@ -60,56 +60,56 @@
 	"full": [
     	{
         	"fileName": "sample_entry_full_2020-11-02_r01_0000_part_00.gz",
-        	"signedUrl": "sample",
+        	"signedUrl": "https://dev-files.blender.org/file/download/bwdp5reejwpkuh5i2oak/PHID-FILE-nui3bpuan4wdvd7yzjrs/sample.tar.gz",
         	"fileSize": 14602293,
         	"expirationDateTimeUtc": "2020-11-02T19:20:46.6870577Z",
         	"sha256Checksum": "sample"
     	},
     	{
         	"fileName": "sample_entry_full_2020-11-02_r01_0001_part_00.gz",
-        	"signedUrl": "sample",
+        	"signedUrl": "https://dev-files.blender.org/file/download/bwdp5reejwpkuh5i2oak/PHID-FILE-nui3bpuan4wdvd7yzjrs/sample.tar.gz",
         	"fileSize": 15083486,
         	"expirationDateTimeUtc": "2020-11-02T19:20:46.6870577Z",
         	"sha256Checksum": "sample"
     	},
     	{
         	"fileName": "sample_entry_full_2020-11-02_r01_0002_part_00.gz",
-        	"signedUrl": "sample",
+        	"signedUrl": "https://dev-files.blender.org/file/download/bwdp5reejwpkuh5i2oak/PHID-FILE-nui3bpuan4wdvd7yzjrs/sample.tar.gz",
         	"fileSize": 18624360,
         	"expirationDateTimeUtc": "2020-11-02T19:20:46.6870577Z",
         	"sha256Checksum": "sample"
     	},
     	{
         	"fileName": "sample_entry_full_2020-11-02_r01_0003_part_00.gz",
-        	"signedUrl": "sample",
+        	"signedUrl": "https://dev-files.blender.org/file/download/bwdp5reejwpkuh5i2oak/PHID-FILE-nui3bpuan4wdvd7yzjrs/sample.tar.gz",
         	"fileSize": 15618049,
         	"expirationDateTimeUtc": "2020-11-02T19:20:46.6870577Z",
         	"sha256Checksum": "sample"
     	},
     	{
         	"fileName": "sample_facility_full_2020-11-02_r01_000.gz",
-        	"signedUrl": "sample",
+        	"signedUrl": "https://dev-files.blender.org/file/download/bwdp5reejwpkuh5i2oak/PHID-FILE-nui3bpuan4wdvd7yzjrs/sample.tar.gz",
         	"fileSize": 3101228,
         	"expirationDateTimeUtc": "2020-11-02T19:20:46.6870577Z",
         	"sha256Checksum": "sample"
     	},
     	{
         	"fileName": "sample_patient_full_2020-11-02_r01_000.gz",
-        	"signedUrl": "sample",
+        	"signedUrl": "https://dev-files.blender.org/file/download/bwdp5reejwpkuh5i2oak/PHID-FILE-nui3bpuan4wdvd7yzjrs/sample.tar.gz",
         	"fileSize": 12417498,
         	"expirationDateTimeUtc": "2020-11-02T19:20:46.6870577Z",
         	"sha256Checksum": "sample"
     	},
     	{
         	"fileName": "sample_practice_full_2020-11-02_r01_000.gz",
-        	"signedUrl": "sample",
+        	"signedUrl": "https://dev-files.blender.org/file/download/bwdp5reejwpkuh5i2oak/PHID-FILE-nui3bpuan4wdvd7yzjrs/sample.tar.gz",
         	"fileSize": 2166545,
         	"expirationDateTimeUtc": "2020-11-02T19:20:46.6870577Z",
         	"sha256Checksum": "sample"
     	},
     	{
         	"fileName": "sample_provider_full_2020-11-02_r01_000.gz",
-        	"signedUrl": "sample",
+        	"signedUrl": "https://dev-files.blender.org/file/download/bwdp5reejwpkuh5i2oak/PHID-FILE-nui3bpuan4wdvd7yzjrs/sample.tar.gz",
         	"fileSize": 5141079,
         	"expirationDateTimeUtc": "2020-11-02T19:20:46.6870577Z",
         	"sha256Checksum": "sample"
